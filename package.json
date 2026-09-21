@@ -1,6 +1,6 @@
 {
   "name": "qwen-code-oai-proxy",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "qwen proxy . qwen code oauth file in use for a proxy server so you can use qwen coder model any tool that uses openai api and base url .  and also the websearch api proxy",
   "main": "src/index.ts",
   "scripts": {
